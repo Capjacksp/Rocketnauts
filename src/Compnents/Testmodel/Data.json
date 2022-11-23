@@ -1,0 +1,39 @@
+{
+	"rockets": [{
+		"id": "1",
+		"name": "Falcon 9 block V",
+		"version": "1.2",
+		"family": "Falcon",
+		"model_path": "Testmodel",
+		"height": "71",
+        "diameter":"3.7",
+        "mass":"549",
+		"country": "USA",
+		"manufacturer": "SpaceX",
+		"first_flight": "2016-12-22",
+		"payload_leo": "22,800",
+		"payload_gto": "8,300",
+		"cost_per_launch": "62",
+        "cost_per_kg_leo":"2,719",
+        "cost_per_kg_gto":"7,469",
+		"status": "Active"
+	}, {
+		"id": "2",
+		"name": "Testmodel2",
+		"version": "1.0",
+		"family": "Electron",
+		"model_path": "/Electron1.glb",
+		"height": "18",
+        "diameter":"1.2",
+        "mass":"12.5",
+		"country": "New Zealand",
+		"manufacturer": "Rocket Lab",
+		"first_flight": "2016-12-22",
+		"payload_leo": "300",
+		"payload_gto": "200",
+		"cost_per_launch": "7.5",
+        "cost_per_kg_leo":"25,000",
+        "cost_per_kg_gto":"-1",
+		"status": "Active"
+	}]
+}
